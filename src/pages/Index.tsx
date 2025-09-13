@@ -61,7 +61,7 @@ const Index = () => {
                 <Shield className="w-8 h-8 text-white" />
               </div>
               <div>
-                <h1 className="text-xl font-bold">DriveGuard</h1>
+                <h1 className="text-xl font-bold">SafeDriveAI</h1>
                 <p className="text-xs text-muted-foreground">Driver Fatigue Detection System</p>
               </div>
             </div>
